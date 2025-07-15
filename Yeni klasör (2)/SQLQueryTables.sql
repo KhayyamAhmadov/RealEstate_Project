@@ -1,0 +1,21 @@
+use RealEstateDB
+go
+
+select * from [Dynamic].[Apartment]
+select * from [Dynamic].[CommercialProperty]
+select * from [Dynamic].[Description]
+select * from [Dynamic].[EstateListing]
+select * from [Dynamic].[Garage]
+select * from [Dynamic].[House]
+select * from [Dynamic].[Labels]
+select * from [Dynamic].[Land]
+select * from [Dynamic].[ListingImages]
+select * from [Dynamic].[Office]
+select * from [Dynamic].[SellerInfo]
+select * from [Dynamic].[URL]
+select * from [Static].[City]
+select * from [Static].[EstateCategory]
+select * from [Static].[MetroStations]
+select * from [Static].[SalesType]
+select * from [Static].[SellerType]
+select * from [Static].[Settelements]
