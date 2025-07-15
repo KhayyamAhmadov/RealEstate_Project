@@ -77,12 +77,4 @@ If any content owner or website representative has concerns, they are encouraged
 
 ---
 
-## 👤 Author
-
-**Xəyyam Əhmədov**  
-📧 example@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/your-profile)
-
----
-
 ⭐ Feel free to fork, star, or contribute to this project if you're working on data engineering with real estate datasets.
