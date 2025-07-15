@@ -62,7 +62,7 @@ Scraped data is stored in a normalized **OLTP schema** in Microsoft SQL Server, 
 
 - `EstateListing`  
 - `Apartment`, `House`, `Office`, `CommercialProperty`, `Garage`, `Land`  
-- `SellerInfo`, `ListingURL`, `ListingImageURL`, `Description`, `Labels`
+- `SellerInfo`, `URL`, `ListingImages`, `Description`, `Labels`
 
 ---
 
