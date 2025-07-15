@@ -1,5 +1,18 @@
 # 🕷️ Real Estate Web Scraper
 
+---
+
+## ⚠️ Disclaimer
+
+This web scraper is built and maintained **strictly for educational and research purposes**.  
+All data has been collected from publicly available sources and is **not used for any commercial, resale, or competitive intent**.
+
+If any content owner or website representative has concerns, they are encouraged to reach out, and the relevant data will be promptly removed.
+
+> **This project is not affiliated with Bina.az, Emlak.az, or Arenda.az in any way.**
+
+---
+
 This module is responsible for extracting real estate listing data from three of the most popular Azerbaijani property websites:  
 **[Bina.az](https://bina.az)**, **[Emlak.az](https://emlak.az)**, and **[Arenda.az](https://arenda.az)**.
 
@@ -63,17 +76,6 @@ Scraped data is stored in a normalized **OLTP schema** in Microsoft SQL Server, 
 - `EstateListing`  
 - `Apartment`, `House`, `Office`, `CommercialProperty`, `Garage`, `Land`  
 - `SellerInfo`, `URL`, `ListingImages`, `Description`, `Labels`
-
----
-
-## ⚠️ Disclaimer
-
-This web scraper is built and maintained **strictly for educational and research purposes**.  
-All data has been collected from publicly available sources and is **not used for any commercial, resale, or competitive intent**.
-
-If any content owner or website representative has concerns, they are encouraged to reach out, and the relevant data will be promptly removed.
-
-> **This project is not affiliated with Bina.az, Emlak.az, or Arenda.az in any way.**
 
 ---
 
