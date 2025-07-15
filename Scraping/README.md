@@ -22,6 +22,7 @@ The scraper is designed to run in an automated and parallelized fashion, handlin
 
 ## ⚙️ Technologies Used
 
+- **Python version**: 3.11.9
 - **Web Automation**: `Selenium`, `undetected-chromedriver`
 - **Parsing**: `BeautifulSoup`
 - **Threading & Parallelism**: `threading`, `ThreadPoolExecutor`, `queue`
