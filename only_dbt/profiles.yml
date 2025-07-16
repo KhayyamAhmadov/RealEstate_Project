@@ -1,0 +1,16 @@
+real_estate_dwh:
+  outputs:
+    dev:
+      type: sqlserver
+      host: DESKTOP-KIDL0VQ\SQLEXPRESS
+      port: 1433
+      user: sa
+      password: sa
+      database: RealEstate_DWH   # <- buranı dəyişdir
+      schema: dbo
+      threads: 4
+      driver: ODBC Driver 17 for SQL Server
+      encrypt: false
+      trust_cert: true
+      windows_login: true
+  target: dev
